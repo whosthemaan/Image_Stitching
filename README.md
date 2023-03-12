@@ -1,0 +1,1 @@
+1. Run Problem_2.py using 'python3 Problem_2.py' to see output from problem2, you can find the matches and stitched image inside Output folder
