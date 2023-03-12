@@ -1,4 +1,4 @@
-## Image Stitching based on RANSAC based Homography
+## Image Stitching based on Homography(RANSAC)
 
 Run using the following code:
 
